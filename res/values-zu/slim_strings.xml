@@ -16,5 +16,4 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Transfer speed for current download/s. -->
-  <string name="download_speed"><xliff:g id="duration">%s</xliff:g>/mp</string>
 </resources>
